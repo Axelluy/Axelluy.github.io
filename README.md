@@ -1,2 +1,2 @@
-# axelluy.github.io
-My website
+# Axelluy.github.io
+My web site
